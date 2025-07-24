@@ -19,6 +19,5 @@ Our goal is to prove that **true general intelligence can emerge from symbolic s
 
 ---
 
-## 📘 Logs
 
-- [2025-07-24: Initial reasoning experiment with wave propagation](logs/2025-07-24.md)
+![Uploading ChatGPT Image 2025년 7월 24일 오후 01_57_28.png…]()
